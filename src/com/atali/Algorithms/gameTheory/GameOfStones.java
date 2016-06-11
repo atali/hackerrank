@@ -1,4 +1,4 @@
-package com.atali;
+package com.atali.algorithms.gametheory;
 
 import java.util.Scanner;
 
